@@ -1,0 +1,15 @@
+{
+  "name": "gulp-imageoptim",
+  "version": "0.0.0",
+  "description": "Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamieMason/gulp-imageoptim.git"
+  },
+  "author": "Jamie Mason, @fold_left",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamieMason/gulp-imageoptim/issues"
+  },
+  "homepage": "https://github.com/JamieMason/gulp-imageoptim"
+}
